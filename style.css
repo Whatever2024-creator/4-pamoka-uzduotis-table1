@@ -1,0 +1,36 @@
+table {
+    border: 2px solid darkgoldenrod;
+    width: 500px;
+    border-collapse: collapse;
+    font-family: montserrat;
+    margin-bottom: 50px;
+}
+
+th, td {
+    border:  1px solid darkgoldenrod;
+    padding: 20px;
+    text-align: center;
+}
+
+.yellow {
+    background: darkgoldenrod;
+    color: black;
+    font-weight: bold;
+}
+
+.yellow-2 {
+    background: darkgoldenrod;
+    color: black;
+    font-weight: bold;
+}
+
+.yellow-3 {
+    background: darkgoldenrod;
+    color: black;
+    font-weight: bold;
+}
+
+table:first-of-type {
+    background: darkmagenta;
+    color: white
+}
